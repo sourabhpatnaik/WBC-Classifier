@@ -27,7 +27,7 @@ The model classifies cells into **4 leukocyte categories**:
 
 ## 🚀 Live Demo
 
-🔗 **[HemoVision AI — Streamlit App](#)** *https://wbc-classifier.streamlit.app/)*
+🔗 **[HemoVision AI — Streamlit App](#):** *https://wbc-classifier.streamlit.app*
 
 ---
 
